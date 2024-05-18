@@ -1,4 +1,4 @@
-// length with the reference
+// lengt with the reference
 // fn main() {
 //     let s1 = String::from("hello");
 
